@@ -1,0 +1,133 @@
+,url,Position,Company,Location,Job_Description
+1,https://www.glassdoor.co.in/partner/jobListing.htm?pos=118&ao=1136043&s=58&guid=00000196707858b8a5fcb1f707cbb099&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_4929babd&cb=1745643658195&jobListingId=1009721618201&jrtk=5-yul1-0-1ipo7gm7ak8jf801-a4e7a158fadfeeb0,Lead Network Engineer,HTD Resources,Bengaluru,"Position: Lead Network EngineerLoc: BangaloreExp: 10+ YearsThe Network Engineer will work with cutting-edge technology and engage in a wide range of global projects, mergers, divestitures, and initiatives. These experiences will allow you to gain valuable expertise in areas such as business, industrial and PCN network systems, automation, wireless, (RF) protocols and devices, Azure networking, and network security mechanisms. To be a successful network engineer, you should be able to identify the optimal network-based alternative for our digital platforms and implement on-prem and cloud infrastructures in accordance with best practices and company security policies. You understand the connectivity details of various network technologies and solutions located on the business, industrial and process control networks, and their impacts on solution design. The Network Engineer should have top-notch troubleshooting skills, keep up with industry trends, and work well in a team.Responsibilities:Design, implement, and maintain business and industrial communication solutions to solve business problems and provide value to a wide variety of business functions.Participate in the design, implementation and troubleshooting of our network infrastructure.Analyzes network security needs and designs solutions that meet business requirements for protection, standardization, efficiency, scalability, supportability, and cost-effectiveness. Contributes to lifecycle activities.Configuration of collaboration services, dial plans and troubleshootingGather requirements and interact with multiple internal and external stakeholders to design and engineer our network infrastructure to support Network products.Create technical design documentation and implementation/test plans. Provide comprehensive tier-3 support for the operational teams, this includes working with and coordinating vendors and service providers.Interact with global peers within the network design, operation and across other support teams to support change implementations and solve challenging escalated problems. Implement and maintain processes, procedures and associated plans for network infrastructure including administration, usage, and disaster recovery Use ticketing and change management systems to track incidents and changes.Participate in BCP and DRP events and exercises as part of a team supporting the overall network and business environment.Develops and implements solutions and processes to maintain the reliability, effectiveness, and efficiency of network security infrastructure components across the enterprise and associated process control environments.Works with project managers, team members, architects, business units and other stakeholders to create agile solutions, identifying continuous improvement opportunities, creating new or improved processes and automation to support step changes in operational efficiencies.Analyzes network security needs and designs solutions that meet business requirements for protection, standardization, efficiency, scalability, supportability, and cost-effectiveness. Contributes to lifecycle activities.Follows standard change management processes and practices when introducing technical changes to the environment.Develops and shares best practices with other teams.Job Types: Full-time, PermanentPay: ₹3,500,000.00 - ₹4,900,000.00 per yearApplication Question(s):How many years of experience do you have in Networking?How many years of experience do you have in Wireless?How many years of experience do you have in Azure?How many years of experience do you have in network infrastructure?How many years of experience do you have in Network Security?What is your expected CTC?Which industries/ domain have you worked in?Work Location: In personShow more"
+2,https://www.glassdoor.co.in/partner/jobListing.htm?pos=120&ao=1136043&s=58&guid=00000196707858b8a5fcb1f707cbb099&src=GD_JOB_AD&t=SR&vt=w&ea=1&cs=1_fd9ffc27&cb=1745643658196&jobListingId=1009602361236&jrtk=5-yul1-0-1ipo7gm7ak8jf801-0ff8fda5c2c7f315,Solutions Architect,Boomitra,Bengaluru,"Solutions Architect
+
+Location: Bangalore, INDIA (On-site; Full-time)
+
+
+Main Purpose
+
+Responsible for designing and implementing scalable, integrated solutions, API development, and App delivery. This individual will collaborate with R&D, data engineering, and application development teams to create robust systems that align with Boomitra’s mission of providing scalable solutions to address climate change through AI and remote sensing across the globe.
+
+
+Responsibilities
+
+Solution Architecture and Design
+
+Architect scalable and efficient cloud solutions using AWS services, enabling geospatial data processing, modeling, and app delivery.
+Design and optimize systems for integrating geospatial models, APIs, data pipelines, and user-facing applications.
+Architect and implement data pipelines to ingest, process, and analyze large datasets from various sources.
+Design and implement secure and efficient payment systems, including integration with payment gateways and fraud prevention mechanisms.
+Ensure seamless integration of APIs, and web/mobile applications.
+Design and optimize database schemas, including relational databases, (PostgreSQL), NoSQL (DynamoDB) and Firebase.
+Ensure the security and privacy of sensitive data and payment information.
+
+Collaboration and Integration
+
+Work with geospatial data scientists to implement and optimize machine learning models, ensuring compatibility with real-world datasets and remote sensing tools.
+Partner with the data engineering team to build scalable pipelines for ingesting and transforming datasets.
+Collaborate with the application development team to integrate APIs with backend systems using js, TypeScript, and databases such as PostgreSQL, DynamoDB, and MongoDB.
+Support the frontend team in creating smooth interfaces with tools like ReactJS, Material UI, and Bootstrap, ensuring seamless end-user experiences.
+Mentor and guide development teams, fostering a culture of innovation and excellence.
+Collaborate with cross-functional teams, including product managers, data scientists, and DevOps engineers with the use of GitHub.
+
+Technology Leadership
+
+Evaluate and recommend advanced tools, frameworks, and practices for processing, analyzing, and visualizing geospatial data at scale.
+Expertise in designing and implementing scalable and distributed systems
+Establish best practices for API design (RESTful, GraphQL) and cloud infrastructure deployment on AWS and Google Cloud
+Architect and implement data pipelines to ingest, process, and analyze large datasets from various sources.
+Champion innovation by exploring new technologies in geospatial analysis, machine learning, and software development.
+Strong proficiency in Python, Node.js, ReactJS, ReactNative, Redux, TypeScript and JavaScript
+Deep understanding of database systems (PostgreSQL, DynamoDB)
+Strong problem-solving and analytical skills
+
+Project Oversight and Management
+
+Translate business requirements into detailed technical solutions, ensuring scalability, reliability, and performance.
+Define technical standards, monitor development progress, and ensure timely project delivery.
+Mentor and guide engineering teams on architectural decisions and development best practices.
+Excellent communication and collaboration skills
+
+
+Qualifications & Experience
+
+Education: Bachelor’s or Master’s degree in Computer Science, Computer Engineering, or a related field.
+Experience:
+Minimum 4 years in solution architecture or a similar role, with overall experience of 8+ years.
+Proven experience designing and implementing scalable systems involving geospatial data.
+Technical Expertise:
+Cloud Platforms: Expertise in AWS services and architecture design.AWS Lambda, OpenSearch, AWS Cognito, AWS RDS, AWS EC2, AWS API gateway, Firebase, AWS CloudFormation.
+Data Engineering: Strong experience with pipeline orchestration and spatial databases
+Programming Languages: Strong skills in Python, with familiarity in data processing libraries like Pandas and NumPy, as well as machine learning frameworks
+App Development: Working knowledge of js, ReactJS, ReactNative, Expo, TypeScript and frontend frameworks like Material UI, Bootstrap, and Tailwind CSS.
+APIs: Expertise in designing RESTful and GraphQL APIs for scalable data sharing and system integration.
+Preferred Skills
+Experience with spatial-temporal analysis and large-scale dataset modeling.
+Background in designing SDKs for data handling.
+Proficiency in implementing monitoring systems for pipelines and APIs.
+Competencies
+Problem-Solving: Strong analytical skills to identify issues, evaluate solutions, and implement effective resolutions in geospatial projects.
+Attention to Detail: Precision and accuracy in handling geospatial data and developing applications to ensure high-quality outcomes.
+Communication Skills: Ability to clearly communicate complex technical concepts to non-technical stakeholders. Effective written and verbal communication skills for documentation, reports, and presentations.
+Teamwork and Collaboration: Experience working in interdisciplinary teams, collaborating with other developers, data scientists, and domain experts. Ability to work well in a team environment and contribute to group objectives.
+Adaptability and Flexibility: Willingness to learn and adapt to new technologies and methodologies in the fast-evolving field of geospatial development. Flexibility to handle changing project requirements and priorities.
+Project Management: Ability to manage time effectively and handle multiple projects simultaneously. Skills in organizing tasks, setting priorities, and meeting deadlines.
+Critical Thinking: Ability to evaluate complex problems, consider various perspectives, and make well-informed decisions.
+User-Centric Focus: Understanding the needs and requirements of end-users to develop intuitive and user-friendly geospatial applications.
+Curiosity and Continuous Learning: Eagerness to stay updated with the latest trends, tools, and best practices in geospatial technology. Commitment to continuous professional development and self-improvement.
+
+
+We Are
+
+Are you interested in moving the needle on climate change? This is your chance to do that and work on what is likely the most efficient and scalable solution to climate change! We aim to reduce humanity’s entire carbon footprint by 20% in the next 10 years! You will also have the chance to do exciting work at the forefront of satellite and AI technology, while solving major problems for our Fortune 500 clients, while working closely with the founders! We are funded and backed by top Fortune 500 companies who truly care about mitigating climate change at scale!
+
+
+We Offer
+
+The opportunity to work in a growing global Climate Tech company that is moving the needle on climate change.
+Work in a growing global climate impact company with a real commitment to sustainability and fighting climate change while incentivizing small farmers of the world.
+Excellent team spirit, working within a large and international team of professionals passionate about environmental sustainability.
+You will be building and shaping a business from the start to scale-up.
+The opportunity to work with highly dedicated and motivated professional experts all around the world. We are focused on recruiting the best talent, where bright and passionate colleagues join in building a high performing cross-functional team.
+Salary is commensurate with experience and responsibilities.
+We offer a flexible schedule and a competitive benefits package including generous vacation days and personal time off.
+Support for personal development, diversification and continuous learning is a priority.
+Boomitra believes in a strong work-life balance and where possible we strive to match the needs of the business while accommodating the needs to the individual. As a global organization we actively strive to reflect the diversity in society. We therefore encourage all qualified applicants from all backgrounds to apply, and are committed to creating a work environment that fits gender equality and allows combining career progress with the needs of a family or other personal circumstances.
+
+Boomitra is an equal opportunity employer. At Boomitra, we are committed to providing an environment of mutual respect where equal employment opportunities are available to all applicants and teammates without regard to race, color, religion, sex, national origin, age, marital status, military and veteran status, and any other characteristic protected by applicable law. We believe that diversity and inclusion among our teammates is critical to our success.
+Boomitra has been named as one of TIME Magazine's 100 Most Influential Companies in the world (2024). This list highlights companies making an extraordinary impact around the world. Last year HRH Prince William announced Boomitra as The Earthshot Prize Winner in the 'Fix Our Climate' category. These awards recognizes and underpins Boomitra's work with farmers and ranchers to adopt regenerative land management practices that capture and store carbon in the soil, improve soil health, and increase agricultural yields. These practices also improve water quality and biodiversity, and provide farmers with additional income through carbon credits. Boomitra is on a mission to recarbonize the soil and protect the planet.Show moreSee company reviews"
+3,https://www.glassdoor.co.in/partner/jobListing.htm?pos=102&ao=1110586&s=58&guid=00000196707858b8a5fcb1f707cbb099&src=GD_JOB_AD&t=SR&vt=w&cs=1_9759924d&cb=1745643658193&jobListingId=1009718463458&cpc=F41FEAB56D215062&jrtk=5-yul1-0-1ipo7gm7ak8jf801-3ff6f9dd33ef1e9c---6NYlbfkN0CLAFIAocNJ4Wfrhm82ciahvtobYpoaf72Vrs-CtZeLTwW2ocwICmDaNXUvDqTOxOFf9qRluMVIASkTqjZLVr5I-29BAzGKVUSMShU3KKMtgJVSBpbbwnhfN2UkGxnLsPMZCTzRDLDgN7vdWrX-JQSLc4LdPZc15Zk5qTNyAGunvbN7uiIQ9ERt_wBVmIo6zHa6j9g7-iuoTOTJzhvDuGwTED7eZmikbd_tsZY94DXjj9n-tbk1XDpZls4vfmz5bB7qQNqY7FewFnWpAiuJXkURFJ6OpLpjm-emWHcoNQqS5KVM92xyxvFKpT4bG2-uo4pq27532x1XgnK-GiupOIBeii7xOVmAR1dbijha1BQ0oXsMaIP8wU7brcbv_z4OiUkWEC9YXwvZ5bFKVHDGUDZ7O42iNEzWuU1LOu13sKCThNSizImra9cOP1k4dDYKNgO3WkDMaHdwso9wyuvyIq-S4hEEQA-xQlNVzl0fZ6u-JVYWE_u9KdCdrT6oIj0kueGba_GEdlotQHJ7g0akm9aVDkKZc5FJReo27MuxfZSFhC3k2nSHk7Ab1NLnNzL7x5XX1uJktwIILHyvyrK8MRxeaVK4dJ9NRZ0ysxLG6UQps8cR7g7x9cp0HyWzYea1TilaFfN__w02cilPxqgtxEvlFAsbSzFJHdOrLcO8xIdNVB-adTCHO5ZmnTCOpLCJ7-cy_6jUtehI5VzpXlzgoYfi,"Senior Software Engineer Global, Converse",CONVERSE,Karnataka,"WHO YOU’LL WORK WITH
+As part of the Converse Technology Operations and Infrastructure team, you will work with and support our Converse Technology product and engineering teams, helping them build and maintain secure and robust applications leveraging Cloud technologies. You will also partner closely with the Nike Global Cloud engineering, Cyber Security and Architecture teams to define and implement Cloud and CI/CD governance and standards.
+WHO WE ARE LOOKING FOR
+We are seeking an experienced Cloud Engineer to join our team. The successful candidate will be responsible for designing, building, and maintaining our cloud infrastructure on AWS and Azure, with a focus on infrastructure as code, enabling standards, aligning with Nike's policies. This is a technical role that requires strong technical skills, excellent communication and collaboration skills, and the ability to lead and mentor other engineers.
+5+ years of experience in Cloud engineering, with a focus on AWS and Azure.
+Certifications such as AWS Certified Solutions Architect or Azure Certified Solutions Architect a plus.
+Demonstrated knowledge of Cloud Infrastructure, including VPC setup, WAF configuration
+Demonstrated experience with AWS services such as IAM, EC2, ECS, RDS, S3, Lambda, VPC, Beanstalk, CloudWatch etc.
+Experience delivering cloud solution designs, installation, and configuration using IaC (Infrastructure as Code) and automation tools, such as Terraform, Rundeck, Jenkins, CloudFormation, GitHub Actions
+Excellent leadership and collaboration skills, with the ability to lead and mentor others.
+Strong communication and interpersonal skills, with the ability to work with a variety of stakeholders, including technical and non-technical stakeholders.
+Ability to work in a fast-paced environment, with a focus on delivering high-quality results.
+WHAT YOU’LL WORK ON
+You will work on designing and building Cloud infrastructure solutions in partnership with the application teams, acting as subject matter expert for other engineers across Converse. You will lead and run Cloud operations at Converse, including working occasionally on incidents, and proactively optimizing our Cloud footprint and cost. You will also help implement our Cloud and CI/CD governance.
+Some examples of activities include:
+Designing and building Cloud infrastructure and solutions:
+Design, build, and maintain cloud infrastructure on AWS and Azure, including VPC setup, WAF configuration, accounts, scalability and IAM.
+Develop and implement infrastructure as code (IaC) using Terraform and other tools.
+Support the implementation and development of new Cloud applications and integrations.
+Implement best in class CI/CD pipelines, leveraging AI and automation across the scope of work.
+Collaborate with Nike's existing resources and relationships to accelerate Converse Cloud journey.
+Work with stakeholders to identify and prioritize cloud engineering work.
+Utilize Jira and Agile methodologies to plan, prioritize and execute the work
+Run Cloud Operations:
+Manage cloud cost optimization and right sizing efforts, working with stakeholders to identify and prioritize cost-saving opportunities.
+Troubleshoot and resolve cloud-related issues across the stack, including network connectivity, storage, and compute resources.
+Run audits and report on compliance such as tagging standards across our entire Cloud environment
+Partner with our Cyber Security team to identify vulnerability and implement timely remediation.
+Review and configure pipeline standards to ensure policy adherence and uniformity in all instances.
+Cross functional collaboration:
+Help run the Cloud Community of Practice, providing, training, and support to cloud engineers across the enterprise.
+Bring innovation and ideas into engineering and technology modernization discussions.
+Collaborate with other teams, including Architecture, Engineering, and Operations, to ensure seamless integration of cloud services.
+Provide guidance and mentoring to the Engineering community at Converse.Show moreSee company reviews"

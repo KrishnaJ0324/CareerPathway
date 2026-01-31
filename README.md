@@ -8,10 +8,6 @@ For a guided walkthrough of the features, check out the video demo on YouTube:
 
 [![CareerPathway Project Demo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/3reStAo9Nq8?feature=shared)
 
-A live version of the application is hosted here. Check it out!
-
-**[➡️ View Live Site](https://guide.everglade.in/)**
-
 
 
 ## 🌟 Key Features
